@@ -1,0 +1,6 @@
+Game Board Mockup
+
+Requirements
+Grid - this can be responsive, does not need JS handlers
+Squares - these need click handlers, they also need reset handlers
+Won condition checking - to be handled with JS

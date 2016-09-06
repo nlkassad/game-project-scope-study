@@ -1,0 +1,12 @@
+As a player I want the game to automatically end when a player has
+claimed three squares in a vertical, horizontal or vertical row
+so I know to stop playing
+
+as a player I want to be able to see the scores of my past games so
+I can show them to friends
+
+as a developer I want to be able to see users and their last log in
+date so I can see how many people have played the game recently
+
+As a player I want to be able to log into an account so I can
+save my game data.

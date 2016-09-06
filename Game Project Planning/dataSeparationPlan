@@ -1,0 +1,6 @@
+I plan to keep my code modular by separating sections by
+their function
+- core game
+- authentication
+- reporting
+- game logic

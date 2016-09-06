@@ -1,0 +1,5 @@
+versions will be managed by having sub-versions that indicate the
+completion status to a working requirement feature.
+I will use the name to indicate the feature, 1 to indicate a completed
+level of functionality and .1 to indicate an untested completed code
+increment.

@@ -1,0 +1,29 @@
+Outline Project Plan
+
+Set up HTML Structure to support major requirements
+- Game grid
+- Authentication
+- Reporting
+- Game start/reset
+
+Create grid and place holders for selection
+- Simple grid
+- place holders for square selection
+
+Create basic game logic and interactivity
+- add basic selection features for grid
+- add events and handlers
+- trigger JS and test data logging
+
+Add more complex game logic
+- reject input on used squares
+- create a win condition
+
+Add Authentication
+- Connect with authentication API
+- Add Create, Update, remove for user account
+
+Add reporting
+- for logged in users add historic game reporting
+
+Test combined features
